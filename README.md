@@ -41,4 +41,4 @@ This project uses machine learning models to detect fraudulent credit card trans
 
 ## Author
 
-- [Rudra Chandna]
+- Rudra Chandna
